@@ -1,0 +1,15 @@
+{
+	"name": "nosedive-example-cape",
+	"version": "0.0.0",
+	"private": true,
+	"description": "An example nosedive cape: the smallest repo that extends nosedive with an action of its own.",
+	"license": "MIT",
+	"type": "module",
+	"scripts": {
+		"typecheck": "tsc"
+	},
+	"devDependencies": {
+		"@types/node": "^24.0.0",
+		"typescript": "^5.9.0"
+	}
+}
